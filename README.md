@@ -1,2 +1,2 @@
 # my-project
-grocery broject
+Creating an awesome grocery shop .....
